@@ -77,7 +77,7 @@ The analysis produced four critical charts offering different perspectives on th
     * **Strongest Rebound:** The median stock saw the largest net gain in **May $3.91**, representing a major market reversal.
     * **Outliers:** The prevalence of outliers (individual dots) highlights that even in challenging months (like March), specific stocks achieved massive gains, showcasing significant individual stock risk and opportunity.
 
- **High-quality analytical charts were generated using Python (Matplotlib/Seaborn) to ensure professional, portfolio-ready visualization**
+ * **High-quality analytical charts were generated using Python (Matplotlib/Seaborn) to ensure professional, portfolio-ready visualization**
 ---
 
 ```
