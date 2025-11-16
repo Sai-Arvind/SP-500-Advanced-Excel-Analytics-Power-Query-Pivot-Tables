@@ -49,8 +49,11 @@ The analysis produced four critical charts offering different perspectives on th
 (Using a Pivot Chart filtered to the top 5 most frequent tickers, e.g., TPL, NVR, TDG, NFLX, MTD)
 * **Insight:** Tracks the daily closing price movement over the six-month period, revealing distinct volatility and price ranges for high-value stocks (like NVR) compared to lower-priced counterparts. It shows how specific companies align with or deviate from the general market trend.
 
+* **High-quality analytical charts were generated using Python (Matplotlib/Seaborn) to ensure professional, portfolio-ready visualization**
+
 ### **Chart 2: Total Trading Volume by Month (Bar Chart)**
-<img width="366" height="224" alt="image" src="https://github.com/user-attachments/assets/00ee48c8-3261-4589-9d7a-58a18d78136f" />
+<img width="1000" height="600" alt="1" src="https://github.com/user-attachments/assets/e1af27db-0334-431f-a47b-5188cffb6ccd" />
+
 
 (Using a Pivot Chart summing the `volume` field by the `Month` field)
 * **Insight:** Aggregates total market activity across all S\&P 500 stocks.
@@ -67,7 +70,8 @@ The analysis produced four critical charts offering different perspectives on th
     * **Volatility Metric:** The high standard deviation ($\mathbf{2.04\%}$) indicates that despite the tight clustering, significant price swings occurred frequently.
 
 ### **Chart 4: Distribution of Monthly Net Price Change (Box Plot)**
-<img width="1000" height="600" alt="2" src="https://github.com/user-attachments/assets/81030e48-9fd8-4629-b72e-4b7df666820c" />
+<img width="1000" height="600" alt="2" src="https://github.com/user-attachments/assets/aab35596-27dd-4c4d-b660-82fbfce319e3" />
+
 
 (Using the **Box and Whisker** tool on a calculated difference between the **Max Closing** and **Min Opening** price for each Ticker/Month)
 * **Insight:** Reveals the long-term risk and reward profile for the typical stock over monthly horizons.
