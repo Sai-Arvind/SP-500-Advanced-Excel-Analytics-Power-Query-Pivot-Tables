@@ -49,8 +49,6 @@ The analysis produced four critical charts offering different perspectives on th
 (Using a Pivot Chart filtered to the top 5 most frequent tickers, e.g., TPL, NVR, TDG, NFLX, MTD)
 * **Insight:** Tracks the daily closing price movement over the six-month period, revealing distinct volatility and price ranges for high-value stocks (like NVR) compared to lower-priced counterparts. It shows how specific companies align with or deviate from the general market trend.
 
-* **High-quality analytical charts were generated using Python (Matplotlib/Seaborn) to ensure professional, portfolio-ready visualization**
-
 ### **Chart 2: Total Trading Volume by Month (Bar Chart)**
 <img width="1000" height="600" alt="1" src="https://github.com/user-attachments/assets/e1af27db-0334-431f-a47b-5188cffb6ccd" />
 
@@ -79,6 +77,7 @@ The analysis produced four critical charts offering different perspectives on th
     * **Strongest Rebound:** The median stock saw the largest net gain in **May $3.91**, representing a major market reversal.
     * **Outliers:** The prevalence of outliers (individual dots) highlights that even in challenging months (like March), specific stocks achieved massive gains, showcasing significant individual stock risk and opportunity.
 
+ **High-quality analytical charts were generated using Python (Matplotlib/Seaborn) to ensure professional, portfolio-ready visualization**
 ---
 
 ```
